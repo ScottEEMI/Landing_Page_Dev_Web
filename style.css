@@ -79,9 +79,8 @@ body:hover{
 
 .enfant02{
   display: flex;
-  justify-content: center;
+  align-items: center;
   flex-direction: column;
-  justify-content: space-around;
 }
 .menu{
   color : grey;
